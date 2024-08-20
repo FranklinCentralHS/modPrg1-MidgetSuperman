@@ -10,6 +10,7 @@ var _down
 
 func _ready():
 	var n = String(name).to_lower()
+	$Sprite2D.modulate = Color(0,0,1)
 	_up = n + "_move_up"
 	_down = n + "_move_down"
 	if n == "left":
