@@ -1,0 +1,12 @@
+Point Break Down:
+  Team Points:
+    10/10 points for adding me as a collaborator and your project runs without errors
+    10/10 points for using branches, reasonably sized commits, and pull requests to work on code changes
+    5/5 points for including a README.md file with the requirements in step 5
+  Individual Points:
+    4/5 points for making meaningful changes and contributions to your project
+    - looks like the score changes didn't quite get in
+    5/5 points for reviewing your team members’ pull requests
+    5 points for submitting a link to your repo for this Canvas assignment
+    -5/5 Owen
+    -0/5 Logan
